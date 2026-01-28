@@ -38,7 +38,7 @@ FOREX TRADING/
 │   ├── EURUSD_lgbm_T_15M.pkl
 │   ├── EURUSD_lgbm_T_20M.pkl
 │   ├── EURUSD_lgbm_T_30M.pkl
-|
+
 ├── CSV_FILES/
 │   ├── BACKTEST_DATA.csv
 │   ├── dukascopy_EURUSD_5M.csv
@@ -49,7 +49,7 @@ FOREX TRADING/
 │   ├── MT5_10M_EURUSD_Exchange_Rate_Dataset.csv
 │   ├── MT5_EURUSD_Exchange_Rate_Dataset.csv
 │   ├── Trade_log.csv
-│
+
 ├── PY_FILES/
 │   ├── ALL_BACKTEST.py
 │   ├── ALL_PRED_NXT.py
@@ -62,7 +62,7 @@ FOREX TRADING/
 │   ├── PRED_NEXT.py
 │   ├── Preprocessing.py
 │   ├── test.py
-│
+
 └── requirements.txt
 
 Folder Explanation
