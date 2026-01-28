@@ -28,42 +28,41 @@ The goal of this project is educational, experimental, and research-oriented, al
 
 #Project Structure (Detailed Explanation)
 
-  FOREX TRADING/
-  │
-  ├── ALL_MODELS/
-  │   ├── EURUSD_lgbm_bundle.pkl
-  │   ├── EURUSD_lgbm_T_5M.pkl
-  │   ├── EURUSD_lgbm_T_10M.pkl
-  │   ├── EURUSD_lgbm_T_15M.pkl
-  │   ├── EURUSD_lgbm_T_20M.pkl
-  │   ├── EURUSD_lgbm_T_30M.pkl
-  │
-  ├── CSV_FILES/
-  │   ├── BACKTEST_DATA.csv
-  │   ├── dukascopy_EURUSD_5M.csv
-  │   ├── EURUSD_Exchange_Rate_Dataset.csv
-  │   ├── MT5_5M_BT_EURUSD_Dataset.csv
-  │   ├── MT5_5M_EURUSD_Exchange_Rate_Dataset.csv
-  │   ├── MT5_5M_XAUUSD_Exchange_Rate_Dataset.csv
-  │   ├── MT5_10M_EURUSD_Exchange_Rate_Dataset.csv
-  │   ├── MT5_EURUSD_Exchange_Rate_Dataset.csv
-  │   ├── Trade_log.csv
-  │
-  ├── PY_FILES/
-  │   ├── ALL_BACKTEST.py
-  │   ├── ALL_PRED_NXT.py
-  │   ├── ALL_PROCESS.py
-  │   ├── Dukascopy_Data.py
-  │   ├── func.py
-  │   ├── Get_dataMT5.py
-  │   ├── Get_dataYF.py
-  │   ├── Load_model.py
-  │   ├── PRED_NEXT.py
-  │   ├── Preprocessing.py
-  │   ├── test.py
-  │
-  └── requirements.txt
-
+FOREX TRADING/
+│
+├── ALL_MODELS/
+│   ├── EURUSD_lgbm_bundle.pkl
+│   ├── EURUSD_lgbm_T_5M.pkl
+│   ├── EURUSD_lgbm_T_10M.pkl
+│   ├── EURUSD_lgbm_T_15M.pkl
+│   ├── EURUSD_lgbm_T_20M.pkl
+│   ├── EURUSD_lgbm_T_30M.pkl
+│
+├── CSV_FILES/
+│   ├── BACKTEST_DATA.csv
+│   ├── dukascopy_EURUSD_5M.csv
+│   ├── EURUSD_Exchange_Rate_Dataset.csv
+│   ├── MT5_5M_BT_EURUSD_Dataset.csv
+│   ├── MT5_5M_EURUSD_Exchange_Rate_Dataset.csv
+│   ├── MT5_5M_XAUUSD_Exchange_Rate_Dataset.csv
+│   ├── MT5_10M_EURUSD_Exchange_Rate_Dataset.csv
+│   ├── MT5_EURUSD_Exchange_Rate_Dataset.csv
+│   ├── Trade_log.csv
+│
+├── PY_FILES/
+│   ├── ALL_BACKTEST.py
+│   ├── ALL_PRED_NXT.py
+│   ├── ALL_PROCESS.py
+│   ├── Dukascopy_Data.py
+│   ├── func.py
+│   ├── Get_dataMT5.py
+│   ├── Get_dataYF.py
+│   ├── Load_model.py
+│   ├── PRED_NEXT.py
+│   ├── Preprocessing.py
+│   ├── test.py
+│
+└── requirements.txt
 
 Folder Explanation
   1️⃣ ALL_MODELS
