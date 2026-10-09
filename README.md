@@ -1,4 +1,4 @@
-# AI Forex Trading System using LightGBM & MetaTrader 5
+# AI Forex Trading System + MetaTrader 5
 
 ## Overview
 
